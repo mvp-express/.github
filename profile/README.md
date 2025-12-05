@@ -54,9 +54,8 @@ A high-performance networking library built on Linux `io_uring`, designed for su
 
 ## Roadmap
 
-- **MVP.Express RPC** (In Progress) — MYRA Virtual Procedure over Express Link. A lightweight RPC framework combining myra-codec and myra-transport for ultra-low-latency microservices.
-- **JIA-Cache** (Coming Soon) — Java In-Memory Accelerated Cache. Off-heap caching with predictable latency for real-time systems.
-- **TachyFIX** (Q1 2026) — A modern QuickFIX/J replacement built on Java 24+ and the MYRA stack.
+- **MVP.Express RPC** (In Design Phase) — MYRA Virtual Procedure over Express Link. A lightweight RPC framework combining myra-codec and myra-transport for ultra-low-latency microservices.
+- **JIA-Cache** (In Design Phase) — Java In-Memory Accelerated Cache. Off-heap caching with predictable latency for real-time systems.
 
 ---
 
